@@ -1,7 +1,7 @@
 matplotlib==2.1.1
 numpy==1.13.3
 opencv-python==3.3.0.10
-Pillow==4.3.0
+Pillow==6.2.0
 scipy==1.0.0
 tensorflow-gpu==1.4.0
 tensorflow-tensorboard==0.4.0rc3
